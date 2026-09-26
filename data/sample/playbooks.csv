@@ -1,0 +1,9 @@
+playbook_id,name,steps,expected_escalation,sop_reference,capability
+PB-THR-01,Threat Detection playbook,6,False,SOP 3.1,Threat Detection
+PB-INV-01,Investigation playbook,8,False,SOP 4.2,Investigation
+PB-ESC-01,Escalation playbook,6,True,SOP 4.2,Escalation
+PB-INC-01,Incident Response playbook,6,True,SOP 3.1,Incident Response
+PB-SEC-01,Security Operations playbook,6,False,SOP 3.1,Security Operations
+PB-GOV-01,Governance playbook,6,False,SOP 3.1,Governance
+PB-OPE-01,Operational Discipline playbook,6,False,SOP 3.1,Operational Discipline
+PB-CYB-01,Cyber Resilience playbook,6,False,SOP 3.1,Cyber Resilience

@@ -1,0 +1,9 @@
+control_id,description,expected_behavior,capability_mapping
+CTL-THR,Expected evidence of threat detection on critical assets,alerts_or_cases_present,Threat Detection
+CTL-INV,Expected evidence of investigation on critical assets,alerts_or_cases_present,Investigation
+CTL-ESC,Expected evidence of escalation on critical assets,alerts_or_cases_present,Escalation
+CTL-INC,Expected evidence of incident response on critical assets,alerts_or_cases_present,Incident Response
+CTL-SEC,Expected evidence of security operations on critical assets,alerts_or_cases_present,Security Operations
+CTL-GOV,Expected evidence of governance on critical assets,alerts_or_cases_present,Governance
+CTL-OPE,Expected evidence of operational discipline on critical assets,alerts_or_cases_present,Operational Discipline
+CTL-CYB,Expected evidence of cyber resilience on critical assets,alerts_or_cases_present,Cyber Resilience

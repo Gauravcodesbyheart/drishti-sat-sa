@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DRISHTI · SAT-SA · CyberNova</title>
+  <link rel="icon" href="/static/favicon.png?v=6" type="image/png" />
+  <link rel="stylesheet" href="/static/styles.css?v=6" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="lockup" href="/" aria-label="DRISHTI home">
+      <img class="logo-full" src="/static/logo.png?v=6" alt="DRISHTI — SAT-SA Supervisory Assessment Tool for SOC Analysts" />
+    </a>
+    <div class="top-meta">
+      <strong id="pageTitle">Supervisor console</strong>
+      <span>PS 26157 · NCIIPC / NTRO · Team CyberNova · 100% offline</span>
+    </div>
+    <div class="badge">INTRANET ONLY</div>
+  </header>
+
+  <div class="shell">
+    <aside>
+      <div class="brand">
+        <span class="mark-wrap">
+          <img src="/static/logo-mark.png?v=6" alt="" />
+        </span>
+        <div>
+          <b>DRISHTI</b>
+          <small>SAT-SA console</small>
+        </div>
+      </div>
+      <nav id="nav">
+        <button type="button" data-view="dashboard" class="on">Dashboard</button>
+        <button type="button" data-view="radar">Entity Radar</button>
+        <button type="button" data-view="peers">Peer bench</button>
+        <button type="button" data-view="queue">Review Queue</button>
+        <button type="button" data-view="negspace">Negative Space</button>
+        <button type="button" data-view="trends">Trends</button>
+        <button type="button" data-view="coverage">PS use cases</button>
+        <button type="button" data-view="workflow">Workflow</button>
+        <button type="button" data-view="audit">Trust &amp; Audit</button>
+        <button type="button" data-view="validate">Validate</button>
+        <button type="button" data-view="report">Advisory</button>
+      </nav>
+      <p class="live"><i></i> Offline · air-gapped</p>
+    </aside>
+    <main id="view">Loading DRISHTI…</main>
+  </div>
+  <div id="drawer" class="drawer" hidden></div>
+  <script src="/static/app.js?v=6"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+entity_id,entity_name,sector,size
+CSE-07,BFSI-East Clearing DC,BFSI,L
+CSE-19,Energy-ER Grid SOC,Energy,L
+CSE-03,Telecom Core NOC,Telecom,L
+CSE-22,Power-East Transmission,Power,M
+CSE-11,Transport Rail OCC,Transport,M
+CSE-14,Oil & Gas Pipeline,Energy,M
+CSE-05,Healthcare-N EMR,Healthcare,M
+CSE-21,Strategic Facility,Strategic,S
+CSE-02,Telecom-South RAN,Telecom,M
+CSE-09,Healthcare-East Labs,Healthcare,S
+CSE-08,BFSI-West Payments,BFSI,L
+CSE-16,Power-North Generation,Power,L

@@ -1,0 +1,1 @@
+Read README.md for setup. Architecture: ARCHITECTURE.pdf (also ARCHITECTURE.md).

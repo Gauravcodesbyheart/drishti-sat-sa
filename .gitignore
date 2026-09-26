@@ -1,0 +1,14 @@
+data/offline_seal.key
+*.key
+*.pem
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
