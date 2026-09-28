@@ -411,7 +411,7 @@ async function report() {
   const st = OVERVIEW.stats;
   view.innerHTML = `<div class="letter" id="letter">
     <h2>NCIIPC supervisory advisory — SAT-SA extract</h2>
-    <p>DRISHTI · CyberNova · PS 26157 · ${st.entities} CSEs · ${st.alerts.toLocaleString()} alerts · ${st.findings} findings.</p>
+    <p>DRISHTI · CYBERNOVA2026 · PS 26157 · ${st.entities} CSEs · ${st.alerts.toLocaleString()} alerts · ${st.findings} findings.</p>
     <p>Entities <b>worth checking</b> — not a finding of guilt.</p>
     <ol>${top.map((e) => `<li><b>${e.entity_id} ${esc(e.entity_name)}</b> (${e.sector}) — SPS ${e.sps} vs peer ${e.peer_median} (Z ${e.z_score}). ${e.findings} findings.</li>`).join("")}</ol>
     <p>Next: review the Top-100 queue, then issue the statutory letter.</p>

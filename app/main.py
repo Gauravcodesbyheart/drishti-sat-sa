@@ -96,7 +96,7 @@ def overview():
         "entities": STORE.sps,
         "ps": "26157",
         "org": "NCIIPC / NTRO",
-        "team": "CyberNova",
+        "team": "C",
     }
 
 
