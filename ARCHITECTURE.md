@@ -1,6 +1,6 @@
 # DRISHTI SAT-SA — Architecture (PS 26157)
 
-**Team CyberNova · SIH 2026 · Offline explainable supervisory analytics for NCIIPC**
+**Team CYBERNOVA2026 · SIH 2026 · Offline explainable supervisory analytics for NCIIPC**
 
 **One line:** DRISHTI sits *after* the CSE SIEM. SHA3-256 is **live**. ML-DSA-65 is **next**. The engine never closes a ticket.
 
