@@ -1,6 +1,6 @@
 # DRISHTI SAT-SA — setup (PS 26157)
 
-**Supervisory Analytics Tool for SOC Assessment** · Team **CyberNova** · SIH 2026  
+**Supervisory Analytics Tool for SOC Assessment** · Team **CyberNova2026** · SIH 2026  
 NCIIPC / NTRO · Theme: Blockchain & Cybersecurity · Software
 
 > We do not replace the supervisor. The tool says **WORTH CHECKING**, never **GUILTY**.  
